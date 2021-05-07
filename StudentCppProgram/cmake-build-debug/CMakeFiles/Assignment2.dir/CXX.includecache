@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/NSCC_SchoolWork/YEARTWO/CPlusPlus/Cplusplus/Assignment2/Student.cpp
+Student.h
+D:/NSCC_SchoolWork/YEARTWO/CPlusPlus/Cplusplus/Assignment2/Student.h
+iostream
+-
+regex
+-
+
+D:/NSCC_SchoolWork/YEARTWO/CPlusPlus/Cplusplus/Assignment2/Student.h
+string
+-
+
+D:/NSCC_SchoolWork/YEARTWO/CPlusPlus/Cplusplus/Assignment2/main.cpp
+iostream
+-
+regex
+-
+string
+-
+ostream
+-
+cstdlib
+-
+Student.h
+D:/NSCC_SchoolWork/YEARTWO/CPlusPlus/Cplusplus/Assignment2/Student.h
+
